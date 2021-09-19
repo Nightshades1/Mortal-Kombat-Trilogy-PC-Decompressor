@@ -16,5 +16,7 @@ I just started today and i found it quite amazing, it has even the globals marke
 
 Any character/background is called a "Module" as defined by the debug symbol, basically a "Module" is simply the character/background data that was assembled on this SEGMENT,it seem to be about the "commands/routine" it execute to call/spawn the attack/special moves, for the background it's perhaps that 'assembled' Module that handle the coordinate of the 'tiles' and assemble all the textures to make the level (it's probably different than the background Animation table) which is surely only made to tell that at X/Y coord we want to "draw this" with that "Frame" and possibly play the next frame/adjust the X/Y coordinate to make it moving if it should.
 
+All of that in one day, symbols is pretty much efficient in the research 😎 
+
 # My Workflow
 ![image](https://user-images.githubusercontent.com/19496833/133936231-1cc1ff1a-03df-4618-8536-97163ed9d9a7.png)
