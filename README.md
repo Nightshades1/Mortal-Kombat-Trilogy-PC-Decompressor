@@ -24,3 +24,7 @@ All of that in one day, symbols is pretty much efficient in the research 😎
 # TODO
 1) Build a proxy SDL software in "C" to retrieve the Module(s) Data, backgrounds and Fighters dictionary.
 2) Handle the VRAM cache and Uncompress the images based on the Fighter dictionary, retrieve the Palette and X/Y/U/V for clipping.
+
+Some heavy progress 😎
+![image](https://user-images.githubusercontent.com/19496833/134047029-1f940a23-82dc-42fe-aabc-5aa4587ac21c.png)
+
