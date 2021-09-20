@@ -1,4 +1,4 @@
-# Mortal Kombat Trilogy PC PSX Decompressor
+# Mortal Kombat Trilogy PC Decompressor
 ## Reversing a 1996 Win95 Game
 Work in progress Reverse Engineering MKTrilogy with the help of the symbols<br>
 PC version is basically the PS1 Version, they did use PSY-Q and compile with OpenWatcom, the version is a "Beta" that's why there was embedded debug symbols 😂.
