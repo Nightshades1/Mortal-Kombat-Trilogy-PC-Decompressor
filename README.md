@@ -21,10 +21,6 @@ All of that in one day, symbols is pretty much efficient in the research 😎
 # My Workflow
 ![image](https://user-images.githubusercontent.com/19496833/133936231-1cc1ff1a-03df-4618-8536-97163ed9d9a7.png)
 
-# TODO
-1) Build a proxy SDL software in "C" to retrieve the Module(s) Data, backgrounds and Fighters dictionary.
-2) Handle the VRAM cache and Uncompress the images based on the Fighter dictionary, retrieve the Palette and X/Y/U/V for clipping.
-
-Some heavy progress 😎
-![image](https://user-images.githubusercontent.com/19496833/134047029-1f940a23-82dc-42fe-aabc-5aa4587ac21c.png)
+# Then i wrote a python script to import all function name/variables name into IDA
+![image](https://user-images.githubusercontent.com/19496833/135333630-06f33a0c-2026-4b14-8e7a-209f5a7b5ace.png)
 
