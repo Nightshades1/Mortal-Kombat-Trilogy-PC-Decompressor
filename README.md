@@ -21,6 +21,12 @@ All of that in one day, symbols is pretty much efficient in the research 😎
 # My Workflow
 ![image](https://user-images.githubusercontent.com/19496833/133936231-1cc1ff1a-03df-4618-8536-97163ed9d9a7.png)
 
-# Then i wrote a python script to import all function name/variables name into IDA
+# Then i wrote a python script to import all function name/variables name into IDA, it work for both Dos/WIN32 PC version, Dos seem easier to reverse
+
+Win32 Version:
 ![image](https://user-images.githubusercontent.com/19496833/135333630-06f33a0c-2026-4b14-8e7a-209f5a7b5ace.png)
+
+Dos Version:
+![image](https://user-images.githubusercontent.com/19496833/135347159-fd99e3f0-bacd-43a6-b9d5-e6bcf388a4f7.png)
+
 
